@@ -1,0 +1,53 @@
+/* CSS Document */
+
+html {
+    font-family:  ITC Avant Garde Gothic, Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color:#87CEFA;
+}
+
+h1 {
+    font-family: ITC Avant Garde Gothic, Arial, sans-serif;
+    font-size: 3rem;
+    font-weight:bold;
+    color: #191970;
+}
+
+p, li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #191970;
+}
+
+h1 + p {
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    color: #191970;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+hr {
+    border: solid 6px #008080;
+}
+
+ul, ol {
+    background-color: #66CDAA;
+}
+  
+li {
+    color: #191970
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #191970;
+}
